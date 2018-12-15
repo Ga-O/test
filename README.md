@@ -5,4 +5,6 @@ git commit -m "添加主文件"   将待commit列表的东西提交到本地git�
 git push -u origin master   将本地代码push到远端仓库
 
 git status                  查看待commit列表文件，或者没执行过add的文件
+
+git clone https://github.com/Ga-O/test.git 拉远端代码到本地生成新文件
 ```
